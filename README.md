@@ -3,6 +3,8 @@
 Aplikasi web Single-Page Application untuk menyelesaikan masalah **Linear Programming** menggunakan **Metode Grafis** secara step-by-step.
 
 > Proyek Akhir Mata Kuliah Teknik Riset Operasi
+Elsa Nurjanah 2306206
+Nina Wulandari 2312091
 
 ---
 
@@ -50,10 +52,11 @@ optimasi-produksi-kue/
 │   ├── schemas.py     ← Pydantic request/response models
 │   └── requirements.txt
 └── frontend/
-    └── app/
-        ├── page.tsx   ← SPA utama (input + visualizer + hasil)
-        ├── layout.tsx
-        └── globals.css
+    └──src/
+        └── app/
+          ├── page.tsx   ← SPA utama (input + visualizer + hasil)
+          ├── layout.tsx
+          └── globals.css
 ```
 
 ---
